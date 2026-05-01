@@ -3,3 +3,4 @@ pandas
 matplotlib
 mplsoccer
 understatapi
+matplotlib==3.8.4
