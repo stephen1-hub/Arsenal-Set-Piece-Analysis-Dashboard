@@ -1,0 +1,13 @@
+arsenal-setpiece-analysis/
+│
+├── app11.py
+├── requirements.txt
+├── README.md
+├── data/
+│   └── corners_data.csv
+│
+├── images/
+│   └── shot_map.png   (optional screenshot)
+│
+└── notebooks/
+    └── data_collection.ipynb   (optional)
