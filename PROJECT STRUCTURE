@@ -1,7 +1,7 @@
 arsenal-setpiece-analysis/
 │
 ├── app11.py
-├── requirements.txt
+├── REQUIREMENTS.TXT
 ├── README.md
 ├── data/
 │   └── corners_data.csv
