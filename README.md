@@ -85,7 +85,7 @@ streamlit run app11.py
 ## 📁 Project Structure
 
 ```
-arsenal-setpiece-analysis/
+arsenal-setpiece-analysis-dashboard/
 ├── app11.py
 ├── requirements.txt
 │└── corners_data.csv
