@@ -77,7 +77,7 @@ The goal is to simulate a **real-world football innovation workflow**, where dat
 Run locally:
 
 ```bash
-streamlit run app11.py
+py -m streamlit run app11.py
 ```
 
 ---
