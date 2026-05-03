@@ -74,7 +74,7 @@ The goal is to simulate a **real-world football innovation workflow**, where dat
 
 ## 🖥️ Demo
 
-Run locally:
+Run locally: https://arsenal-set-piece-analysis-dashboard-dzxed2xdppnkybl4bs64a8.streamlit.app/
 
 ```bash
 py -m streamlit run app11.py
