@@ -2,4 +2,4 @@ streamlit
 pandas
 mplsoccer
 understatapi
-matplotlib==3.8.4
+matplotlib
