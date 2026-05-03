@@ -88,8 +88,7 @@ streamlit run app11.py
 arsenal-setpiece-analysis/
 ├── app11.py
 ├── requirements.txt
-├── data/
-│   └── corners_data.csv
+│└── corners_data.csv
 └── README.md
 ```
 
