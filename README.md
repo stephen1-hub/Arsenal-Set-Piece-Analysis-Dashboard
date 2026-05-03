@@ -59,6 +59,8 @@ The goal is to simulate a **real-world football innovation workflow**, where dat
 * **Far-post zones are underutilized**, suggesting limited attacking variation
 * Edge-of-box shots show **low xG efficiency**, highlighting second-phase inefficiencies
 
+<img width="1598" height="752" alt="image" src="https://github.com/user-attachments/assets/d0c84e32-6933-4845-b18b-c34184ead08d" />
+
 ---
 
 ## ⚽ Tactical Implications
